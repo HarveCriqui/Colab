@@ -8,3 +8,7 @@ BookTranslator.ipynb
 Linear_Regression_and_Predictive_Modeling_Harve_Criqui.ipynb
   - Final project of my Analytic Software Class. Designed to provide an exploratory analysis of a Boston restaurants dataset.
   - Uses: Python, Pandas, Seaborn, Pyplot
+    
+StableDiffusion.ipynb
+  - A quick piece of code designed to create AI generated images
+  - Uses: Python, HuggingFace, Pipelines, StableDiffusion
